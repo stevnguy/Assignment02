@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2.tests\\Assignment2.tests.csproj": {}
+    "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2.tests\\Assignment2.tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2.tests\\Assignment2.tests.csproj": {
+    "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2.tests\\Assignment2.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2.tests\\Assignment2.tests.csproj",
+        "projectUniqueName": "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2.tests\\Assignment2.tests.csproj",
         "projectName": "Assignment2.tests",
-        "projectPath": "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2.tests\\Assignment2.tests.csproj",
+        "projectPath": "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2.tests\\Assignment2.tests.csproj",
         "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2.tests\\obj\\",
+        "outputPath": "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj": {
-                "projectPath": "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj"
+              "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj": {
+                "projectPath": "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj": {
+    "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj",
+        "projectPath": "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj",
         "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\obj\\",
+        "outputPath": "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config"

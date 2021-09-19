@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj": {}
+    "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj": {
+    "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj",
+        "projectPath": "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\Assignment2.csproj",
         "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\obj\\",
+        "outputPath": "c:\\Users\\steve\\assignment2\\Assignment02\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config"
